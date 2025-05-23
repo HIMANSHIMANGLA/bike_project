@@ -56,3 +56,4 @@ TODO: Replace the image below with your own.
 
 ## Summary
 TODO: Add your explanation
+In this project, I built a model to predict bike sharing demand using AutoGluon. I began with a basic model and gradually improved its performance through feature engineering and hyperparameter tuning. Feature engineering provided the most significant boost in predictive power, highlighting the importance of domain knowledge. Hyperparameter tuning introduced additional variance, underlining the need for careful experimentation and validation. Overall, this project reinforced key ML practices: iterative improvement, careful validation, and learning from model performance.
