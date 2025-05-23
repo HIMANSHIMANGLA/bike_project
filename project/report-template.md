@@ -40,7 +40,7 @@ Include weather-related feature transformations (e.g., categorize wind speed)
 |--|--|--|--|--|
 |initial|N/A|N/A|N/A|1.80291|
 |add_features|N/A|N/A|N/A|0.51497|
-|hpo|RF: n_estimators=[100, 300]|XGB: learning_rate=0.1|NN_TORCH, GBM (default)|?|
+|hpo|RF: n_estimators=[100, 300]|XGB: learning_rate=0.1|NN_TORCH, GBM (default)|1.33550|
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
